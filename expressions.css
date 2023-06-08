@@ -39,16 +39,16 @@
 /** HiMERU Winter Sprites **/
 
 [character="HiMERU"][wint_affirm] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_affirm.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_affirm.PNG");
 }
 [character="HiMERU"][wint_disappoint] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_disappoint.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_disappoint.PNG");
 }
 [character="HiMERU"][wint_neutral] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_neutral.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_neutral.PNG");
 }
 [character="HiMERU"][wint_smile_r] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_smile_r.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_smile_r.PNG");
 }
 
 /** Event Renders **/
