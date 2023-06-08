@@ -1,6 +1,6 @@
 /** FORMAT AS FOLLOWS ***/
 /** [character="CHARANAME"][ATTRIBUTE] {
-  --icon: url("IMAGE URL");
+  --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/CHARA/ANY-SUBFOLDER/EXTENTION.PNG");
 } ***/
 
 /** Rinne Winter Sprites ***/
@@ -50,6 +50,42 @@
 [character="HiMERU"][wint_smile_r] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_smile_r.PNG");
 }
+
+/** Niki Winter Sprites ***/
+[character="Niki"][wint_bikkuri] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_bikkuri.PNG");
+}
+[character="Niki"][wint_distress] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_disress.PNG");
+}
+[character="Niki"][wint_graugh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_graugh.PNG");
+}
+[character="Niki"][wint_idlr] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_idlr.PNG");
+}
+[character="Niki"][wint_no] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_no.PNG");
+}
+[character="Niki"][wint_satisfied] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_satisfied.PNG");
+}
+[character="Niki"][wint_sigh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_sigh.PNG");
+}
+[character="Niki"][wint_stare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_stare.PNG");
+}
+[character="Niki"][wint_surprise] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_surprise.PNG");
+}
+[character="Niki"][wint_ugh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_ugh.PNG");
+}
+[character="Niki"][wint_uso] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_uso.PNG");
+}
+
 
 /** Event Renders **/
 [character="HiMERU"][himeru_n8_unbl_temp] {
