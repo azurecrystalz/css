@@ -38,8 +38,8 @@
 
 /** HiMERU Winter Sprites **/
 
-[character="HiMERU"][wint_affirm] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_affirm.PNG");
+[character="HiMERU"][winter_plain] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_plain.PNG");
 }
 [character="HiMERU"][wint_disappoint] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_disappoint.PNG");
@@ -53,5 +53,5 @@
 
 /** Event Renders **/
 [character="HiMERU"][himeru_n8_unbl_temp] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_n8_unbl_temp.png");
+    --icon: url("https://cdn.discordapp.com/attachments/1113998918401925181/1116422204775731280/himeru_n8_unbl_temp.PNG");
 }
