@@ -35,3 +35,23 @@
 [character="Rinne"][wint_superior] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_superior.PNG");
 }
+
+/** HiMERU Winter Sprites **/
+
+[character="HiMERU"][wint_affirm] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/wint_affirm.PNG");
+}
+[character="HiMERU"][wint_disappoint] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/wint_disappoint.PNG");
+}
+[character="HiMERU"][wint_neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/wint_neutral.PNG");
+}
+[character="HiMERU"][wint_smile_r] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/wint_smile_r.PNG");
+}
+
+/** Event Renders **/
+[character="HiMERU"][himeru_n8_unbl_temp] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_n8_unbl_temp.PNG");
+}
