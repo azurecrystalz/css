@@ -6,49 +6,49 @@
 /** Rinne Winter Sprites ***/
 
 [character="Rinne"][wint_cheer] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_cheer.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_cheer.PNG");
 }
 [character="Rinne"][wint_ehe] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_ehe.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_ehe.PNG");
 }
 [character="Rinne"][wint_evil] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_evil.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_evil.PNG");
 }
 [character="Rinne"][wint_happyleft] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_happyleft.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_happyleft.PNG");
 }
 [character="Rinne"][wint_khh] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_khh.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_khh.PNG");
 }
 [character="Rinne"][wint_left] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_left.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_left.PNG");
 }
 [character="Rinne"][wint_pensive] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_pensive.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_pensive.PNG");
 }
 [character="Rinne"][wint_sigh] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_sigh.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_sigh.PNG");
 }
 [character="Rinne"][wint_think] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_think.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_think.PNG");
 }
 [character="Rinne"][wint_superior] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/rin_wint_superior.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_superior.PNG");
 }
 
 /** HiMERU Winter Sprites **/
 
 [character="HiMERU"][wint_affirm] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_affirm.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_affirm.PNG");
 }
 [character="HiMERU"][wint_disappoint] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_disappoint.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_disappoint.PNG");
 }
 [character="HiMERU"][wint_neutral] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_neutral.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_neutral.PNG");
 }
 [character="HiMERU"][wint_smile_r] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_wint_smile_r.PNG");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_smile_r.PNG");
 }
 
 /** Event Renders **/
