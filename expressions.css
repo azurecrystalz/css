@@ -85,6 +85,9 @@
 [character="Niki"][wint_uso] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_uso.PNG");
 }
+[character="Niki"][wint_idlr2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_idlr2.PNG");
+}
 
 /** Kohaku Winter Sprites ***/
 
