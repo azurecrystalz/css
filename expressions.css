@@ -38,6 +38,21 @@
 [character="Rinne"][wint_disapprove] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_disapprove.PNG");
 }
+[character="Rinne"][wint_cocky] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_cocky.PNG");
+}
+[character="Rinne"][wint_hah] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_hah.PNG");
+}
+[character="Rinne"][wint_smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_smile.PNG");
+}
+[character="Rinne"][wint_smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_smug.PNG");
+}
+[character="Rinne"][wint_stare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/winter/rin_wint_stare.PNG");
+}
 
 /** HiMERU Winter Sprites **/
 
@@ -55,6 +70,18 @@
 }
 [character="HiMERU"][wint_pensive] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_pensive.PNG");
+}
+[character="HiMERU"][wint_ghk] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_ghk.PNG");
+}
+[character="HiMERU"][wint_neut_left] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_neut_left.PNG");
+}
+[character="HiMERU"][wint_smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_smile.PNG");
+}
+[character="HiMERU"][wint_stare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/himeru_wint_stare.PNG");
 }
 
 /** Niki Winter Sprites ***/
@@ -100,6 +127,9 @@
 [character="Niki"][wint_cheer] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_cheer.PNG");
 }
+[character="Niki"][wint_nerv_laugh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_nerv_laugh.PNG");
+}
 
 /** Kohaku Winter Sprites ***/
 
@@ -123,6 +153,9 @@
 }
 [character="Kohaku"][wint_think] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/kohaku/winter/haku_wint_think.PNG");
+}
+[character="Kohaku"][wint_neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/kohaku/winter/haku_wint_neutral.PNG");
 }
 
 /** Event Renders **/
