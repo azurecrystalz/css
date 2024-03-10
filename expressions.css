@@ -59,10 +59,10 @@
 
 /** Niki Winter Sprites ***/
 [character="Niki"][wint_bikkuri] {
-    --icon: url("https://media.discordapp.net/attachments/1113998918401925181/1116456902302388424/niki_wint_bikkuri.PNG?width=200&height=200");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_bikkuri.PNG");
 }
 [character="Niki"][wint_distress] {
-    --icon: url("https://media.discordapp.net/attachments/1113998918401925181/1116456902541459486/niki_wint_distress.PNG?width=200&height=200");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_distress.PNG");
 }
 [character="Niki"][wint_graugh] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_graugh.PNG");
@@ -83,7 +83,7 @@
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_stare.PNG");
 }
 [character="Niki"][wint_surprise] {
-    --icon: url("https://media.discordapp.net/attachments/1113998918401925181/1116456902860210366/niki_wint_surprise.PNG?width=200&height=200");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_surprise.PNG");
 }
 [character="Niki"][wint_ugh] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/niki/winter/niki_wint_ugh.PNG");
@@ -127,5 +127,5 @@
 
 /** Event Renders **/
 [character="HiMERU"][himeru_n8_unbl_temp] {
-    --icon: url("https://media.discordapp.net/attachments/1113998918401925181/1116428607544373299/1C372B0C-2C2D-443E-B5DE-97E373DA469F.jpg?width=200&height=200");
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/himeru_n8_unbl_temp.PNG");
 }
