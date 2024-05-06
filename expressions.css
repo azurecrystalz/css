@@ -168,6 +168,6 @@
     --color: #80FFF4;
     --hue: 175;
     --name: "Esu";
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/esu_default.PNG");
-    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/esu_head.png")
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/esu/esu_default.PNG");
+    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/esu/imgs/esu_head.png");
 }
