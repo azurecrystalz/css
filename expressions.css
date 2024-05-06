@@ -162,3 +162,12 @@
 [character="HiMERU"][hmr_n8_unbl] {
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/hmr_n8_unbl.PNG");
 }
+
+/** Other Renders **/
+[character="Esu"]{
+    --color: #80FFF4;
+    --hue: 175;
+    --name: "Esu";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/esu_default.PNG");
+    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/esu_head.png")
+}
