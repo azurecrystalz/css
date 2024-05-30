@@ -159,8 +159,8 @@
 }
 
 /** Event Renders **/
-[character="HiMERU"][hmr_n8_unbl] {
-    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/winter/hmr_n8_unbl.PNG");
+[character="HiMERU"][n8_unbl] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/himeru/hmr_n8_unbl.PNG");
 }
 
 /** Other Renders **/
