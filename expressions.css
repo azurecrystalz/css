@@ -3,6 +3,54 @@
   --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/CHARA/ANY-SUBFOLDER/EXTENTION.PNG");
 } ***/
 
+/** Rinne Practice Sprites ***/
+
+[character="Rinne"][practice_happy] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_happy.PNG");
+}
+[character="Rinne"][practice_idlr] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_idlr.PNG");
+}
+[character="Rinne"][practice_mhm] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_mhm.PNG");
+}
+[character="Rinne"][practice_neut] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_neut.PNG");
+}
+[character="Rinne"][practice_seriously] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_seriously.PNG");
+}
+[character="Rinne"][practice_sigh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_sigh.PNG");
+}
+[character="Rinne"][practice_smile_left] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_smile_left.PNG");
+}
+[character="Rinne"][practice_smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_smile.PNG");
+}
+[character="Rinne"][practice_smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_smug.PNG");
+}
+[character="Rinne"][practice_stare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_stare.PNG");
+}
+[character="Rinne"][practice_superior] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_superior.PNG");
+}
+[character="Rinne"][practice_thinkloud] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_thinkloud.PNG");
+}
+[character="Rinne"][practice_thinkself] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_thinkself.PNG");
+}
+[character="Rinne"][practice_upset] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_upset.PNG");
+}
+[character="Rinne"][practice_yup] {
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/rinne/practice/practice_yup.PNG");
+}
+
 /** Rinne Winter Sprites ***/
 
 [character="Rinne"][wint_cheer] {
