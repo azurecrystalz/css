@@ -225,7 +225,7 @@
     --hue: 340;
     --name: "Kuguri";
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/k1.PNG");
-    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/cheeb.png")
+    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/cheebguri.png")
 }
 
 [character="Kuguri"][live2d]{
@@ -233,5 +233,5 @@
     --hue: 340;
     --name: "Kuguri";
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/k2.PNG");
-    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/cheeb.png")
+    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/cheebguri.png")
 }
