@@ -219,3 +219,19 @@
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/esu/esu_default.PNG");
     --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/esu/esu_head.png")
 }
+
+[character="Kuguri"][default]{
+    --color: #DC376E;
+    --hue: 175;
+    --name: "Kuguri";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/k1.PNG");
+    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/chibikuguri.png")
+}
+
+[character="Kuguri"][live2d]{
+    --color: #DC376E;
+    --hue: 175;
+    --name: "Kuguri";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/k2.PNG");
+    --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/chibikuguri.png")
+}
