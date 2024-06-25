@@ -220,7 +220,7 @@
     --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/esu/esu_head.png")
 }
 
-[character="Kuguri"][default]{
+[character="Kuguri"]{
     --color: #DC376E;
     --hue: 340;
     --name: "Kuguri";
@@ -234,4 +234,39 @@
     --name: "Kuguri";
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/k2.PNG");
     --charahead: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kuguri/cheebguri.png")
+}
+
+[character="Momiji"]{
+    --color: #A9F258;
+    --hue: 88;
+    --name: "Momiji";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/momiji/m1.PNG");
+}
+
+[character="Tao"]{
+    --color: #5A9BC8;
+    --hue: 205;
+    --name: "Tao";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/tao/t1.PNG");
+}
+
+[character="Chihiro"]{
+    --color: #46EB9B;
+    --hue: 151;
+    --name: "Chihiro";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/chihiro/c1.PNG");
+}
+
+[character="Raito"]{
+    --color: #41916E;
+    --hue: 154;
+    --name: "Raito";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/raito/r1.PNG");
+}
+
+[character="Kinari"]{
+    --color: #EBC8FF;
+    --hue: 278;
+    --name: "Kinari";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@latest/imgs/kinari/ki1.PNG");
 }
