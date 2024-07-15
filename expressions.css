@@ -225,208 +225,220 @@
 [character="Kaede"] {
     --color: #c8ff46;
     --hue: 77.8378378378deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kaede.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kaede.webp");
 }
 
 [character="Momiji"] {
     --color: #c8ff46;
     --hue: 77.8378378378deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/momiji.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/momiji.webp");
 }
 
 [character="Renga"] {
     --color: #dcaa3c;
     --hue: 41.25deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/renga.png");
-    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/renga.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/renga.webp");
+    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/renga.webp");
 }
 
 [character="Kafka"] {
     --color: #916eff;
     --hue: 254.4827586207deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kafka.png");
-    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/kafka.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kafka.webp");
+    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/kafka.webp");
 }
 
 [character="Ten"] {
     --color: #c8d7eb;
     --hue: 214.2857142857deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/ten.png");
-    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/ten.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/ten.webp");
+    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/ten.webp");
 }
 
 [character="Yukikaze"] {
     --color: #46beff;
     --hue: 201.0810810811deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yukikaze.png");
-    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/yukikaze.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yukikaze.webp");
+    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/yukikaze.webp");
 }
 
 [character="Liguang"] {
     --color: #ff3214;
     --hue: 7.6595744681deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/liguang.png");
-    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/liguang.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/liguang.webp");
+    --msg-icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/msg_icons/liguang.webp");
 }
 
 [character="Akuta"] {
     --color: #ff8232;
     --hue: 23.4146341463deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/akuta.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/akuta.webp");
 }
 
 [character="Kiroku"] {
     --color: #8c14dc;
     --hue: 276deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kiroku.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kiroku.webp");
 }
 
 [character="Nanaki"] {
     --color: #1ebeb4;
     --hue: 176.25deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/nanaki.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/nanaki.webp");
 }
 
 [character="Muneuji"] {
     --color: #ffa5d2;
     --hue: 330deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/muneuji.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/muneuji.webp");
 }
 
 [character="Ushio"] {
     --color: #96f032;
     --hue: 88.4210526316deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/ushio.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/ushio.webp");
 }
 
 [character="Raito"] {
     --color: #00693c;
     --hue: 154.2857142857deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/raito.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/raito.webp");
 }
 
 [character="Kinari"] {
     --color: #ebc8ff;
     --hue: 278.1818181818deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kinari.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kinari.webp");
 }
 
 [character="Chihiro"] {
     --color: #46eb9b;
     --hue: 150.9090909091deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/chihiro.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/chihiro.webp");
 }
 
 [character="Tao"] {
     --color: #468cbe;
     --hue: 205deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/tao.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/tao.webp");
 }
 
 [character="Kuguri"] {
     --color: #d20046;
     --hue: 340deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kuguri.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kuguri.webp");
 }
 
 [character="Nagi"] {
     --color: #463ce6;
     --hue: 243.5294117647deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/nagi.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/nagi.webp");
 }
 
 [character="Toi"] {
     --color: #ffdc3c;
     --hue: 49.2307692308deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/toi.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/toi.webp");
 }
 
 [character="Ryui"] {
     --color: #ff3c6e;
     --hue: 344.6153846154deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/ryui.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/ryui.webp");
 }
 
 [character="Yodaka"] {
     --color: #f0e6aa;
     --hue: 51.4285714286deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yodaka.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yodaka.webp");
 }
 
 [character="Netaro"] {
     --color: #ff32c8;
     --hue: 316.0975609756deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/netaro.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/netaro.webp");
 }
 
 [character="Yachiyo"] {
     --color: #8eaff0;
     --hue: 219.7959183673deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yachiyo.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yachiyo.webp");
 }
 
 [character="Sakujiro"] {
     --color: #fffc93;
     --hue: 58.3333333333deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/sakujiro.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/sakujiro.webp");
 }
 
 [character="Nayuki"] {
     --color: #ffa7a2;
     --hue: 3.2258064516deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/nayuki.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/nayuki.webp");
 }
 
 [character="Daniel"] {
     --color: #a27fc5;
     --hue: 270deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/daniel.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/daniel.webp");
 }
 
 [character="Kotonojo"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kotonojo.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kotonojo.webp");
 }
 
 [character="Koharu"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/koharu.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/koharu.webp");
 }
 
 [character="Minamo"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/minamo.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/minamo.webp");
 }
 
 [character="Hakkei"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/hakkei.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/hakkei.webp");
 }
 
-[character="Jun"] {
+[character="Hassaku"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/jun.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/hassaku.webp");
+}
+
+[character="Sojun"] {
+    --color: #c5d8c1;
+    --hue: 109.5652173913deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/sojun.webp");
 }
 
 [character="Yumenosuke"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yumenosuke.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yumenosuke.webp");
 }
 
 [character="Kodama"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/tatsuji.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/kodama.webp");
 }
 
 [character="Yunyun"] {
     --color: #c5d8c1;
     --hue: 109.5652173913deg;
-    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yunyun.png");
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/yunyun.webp");
+}
+
+[character="Shumai"] {
+    --color: #65c267;
+    --hue: 121.2903225806deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/shumai.webp");
 }
