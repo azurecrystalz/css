@@ -442,3 +442,31 @@
     --hue: 121.2903225806deg;
     --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/shumai.webp");
 }
+
+/** 18TRIP MAHOROVA ICONS **/
+
+[character="Kinari"][maho] {
+    --color: #ebc8ff;
+    --hue: 278.1818181818deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/kina1.PNG");
+}
+[character="Kuguri"][maho] {
+    --color: #d20046;
+    --hue: 340deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/kugu1.PNG");
+}
+[character="Nanaki"][maho] {
+    --color: #1ebeb4;
+    --hue: 176.25deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/nana1.PNG");
+}
+[character="Nagi"][maho] {
+    --color: #463ce6;
+    --hue: 243.5294117647deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/nagi1.PNG");
+}
+[character="Ushio"][maho] {
+    --color: #96f032;
+    --hue: 88.4210526316deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/ushi1.PNG");
+}
