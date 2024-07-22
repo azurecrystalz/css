@@ -470,3 +470,18 @@
     --hue: 88.4210526316deg;
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/ushi1.PNG");
 }
+
+/* TWO PEOPLE TALKING */
+
+[character="NU1"] {
+    --color: #5bd773;
+    --hue: 131.61;
+    --name: "Nanaki & Ushio";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/NU1.PNG")
+}
+[character="NU2"] {
+    --color: #5bd773;
+    --hue: 131.61;
+    --name: "Nanaki & Ushio";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/mahorova/NU2.PNG")
+}
