@@ -479,3 +479,9 @@
     --name: "Nanaki & Ushio";
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/duo/NU.PNG")
 }
+[character="NU2"] {
+    --color: #5bd773;
+    --hue: 131.61;
+    --name: "Nanaki & Ushio";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/duo/nu1.PNG")
+}
