@@ -491,3 +491,9 @@
     --name: "Nanaki & Ushio";
     --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/duo/NU3.PNG")
 }
+[character="RK"] {
+    --color: #8f646e;
+    --hue: 346;
+    --name: "Kuguri & Raito";
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/duo/RK.PNG")
+}
