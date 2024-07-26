@@ -449,6 +449,12 @@
     --icon: url("https://cdn.jsdelivr.net/gh/kagukura/img/icons/shumai.webp");
 }
 
+[character="Andy"] {
+    --color: #1ebeb4;
+    --hue: 176.25deg;
+    --icon: url("https://cdn.jsdelivr.net/gh/azurecrystalz/css@main/imgs/ANDY.png")
+}
+
 /** 18TRIP MAHOROVA ICONS **/
 
 [character="Kinari"][maho] {
